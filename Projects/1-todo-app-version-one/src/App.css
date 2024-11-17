@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+}
+
+.todo-container{
+    text-align: center;
+}
+
+.todoItem{
+    text-align: left;
+}
+
+.ar-row{
+    margin: 10px  5px;
+}
+
+.ar-button{
+    min-width: 80px;
+}
