@@ -16,6 +16,6 @@ For run this project
 
 ## Screenshots
 
-![App Screenshot](./src//components//screensort/Screenshot%202024-11-17%20160847.png)
+![App Screenshot](./src/components/screensort/Screenshot%202024-11-17%20234934.png)
 
 
