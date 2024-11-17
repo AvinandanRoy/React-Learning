@@ -1,14 +1,22 @@
 
-# To Do App version Two 
+# To Do App version Two
 
+# Description
 I want to complete this code with full stack web development...
 In this recent file i use Bootstrap , React 
 
-For run this project 
+## Installation
 
-----> install bootstrap css
-----> Install React.js 
+Install my-project with npm and run your local computer
 
+```bash
+  git clone "paste here the repo link"
+  cd 2-Bangladesh-clock-version-one 
+  node -v 
+  npm v 
+  npm install
+  npm start  
+```
 
 ## Authors
 
