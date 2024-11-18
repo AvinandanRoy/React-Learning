@@ -1,0 +1,23 @@
+.buttonContainer {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 18px; /* Space between buttons */
+  column-gap: 70px;
+  margin: 0 55px;
+}
+
+.buttonContainer button {
+  flex: 1 1 calc(33.33% - 70px); /* 3 buttons per row, subtracting gap */
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  width: 50px;
+}
+
+.buttonContainer button:hover {
+  background-color: #db562d;
+  transform: scale(1.2); /* Slightly enlarges the button */
+}
