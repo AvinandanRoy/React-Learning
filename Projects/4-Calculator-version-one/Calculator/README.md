@@ -26,6 +26,6 @@ Install my-project with npm and run your local computer
 
 ## Screenshots
 
-![App Screenshot](./src/components/screensort/Screenshot%202024-11-17%20234934.png)
+![App Screenshot](./src/assets/Screenshot%202024-11-18%20212533.png)
 
 
