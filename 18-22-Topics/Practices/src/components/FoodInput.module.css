@@ -1,0 +1,11 @@
+
+
+.foodInput{
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    width: 500px;
+    outline: none;
+    border: 1px solid rgb(104, 104, 231);
+    border-radius: 40px;
+}
